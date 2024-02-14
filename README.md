@@ -1,4 +1,4 @@
-KrrazyJoker/Transmission_Line_Parameters# Transmission Line Parameters
+# Transmission Line Parameters
 
 This repository contains information about the inductance (𝑳) and capacitance (𝑪) of transmission lines.
 
